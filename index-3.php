@@ -1,4 +1,4 @@
-Desafio 2: Sistema de Funcionários
+Desafio 3: Sistema de Funcionários
 Crie uma classe Funcionario com os seguintes atributos:
 - nome
 - salario
