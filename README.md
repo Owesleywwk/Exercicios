@@ -1,6 +1,6 @@
 # 147 Exercícios com Programação Orientada a Objetos (POO)
 
-Bem-vindo ao repositório **140 Exercícios com POO**! Este projeto contém uma série de exercícios práticos com foco em Programação Orientada a Objetos, ideais para quem deseja praticar e aperfeiçoar suas habilidades nessa importante abordagem de desenvolvimento.
+Bem-vindo ao repositório **147 Exercícios com POO**! Este projeto contém uma série de exercícios práticos com foco em Programação Orientada a Objetos, ideais para quem deseja praticar e aperfeiçoar suas habilidades nessa importante abordagem de desenvolvimento.
 
 ## Objetivo
 
